@@ -1,0 +1,18 @@
+{
+    "name": "cake-mc/bs-socialite-provider-cakeskin",
+    "description": "CakeSkin OAuth2 Provider for Laravel Socialite",
+    "license": "MIT",
+    "authors": [{
+        "name": "XieXiLin",
+        "email": "support@xiexilin.com"
+    }],
+    "require": {
+        "php": "^7.2|^8",
+        "socialiteproviders/manager": "^4.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "CakeSkin\\BsSocialiteProviderCakeSkin\\": ""
+        }
+    }
+}
